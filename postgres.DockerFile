@@ -1,0 +1,4 @@
+FROM postgres:11.1
+ENV POSTGRES_USER docker
+ENV POSTGRES_PASSWORD docker
+ENV POSTGRES_DB docker
